@@ -20,8 +20,8 @@ module.exports = {
       path: '/pages/Books'
     },
     {
-      label: 'Algorithms and DS',
-      path: '/pages/ADS'
+      label: 'AlgoDS',
+      path: '/pages/AlgoDS'
     },
   ],
   author: {
