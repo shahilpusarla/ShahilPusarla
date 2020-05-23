@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "Algorithms and Data Structures"
 template: "page"
 socialImage: "/media/image-2.jpg"
 ---

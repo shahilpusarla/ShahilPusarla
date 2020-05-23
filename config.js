@@ -12,17 +12,17 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'About me',
       path: '/'
     },
     {
-      label: 'About me',
-      path: '/pages/about'
+      label: 'Books',
+      path: '/pages/Books'
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    }
+      label: 'Algorithms and DS',
+      path: '/pages/ADS'
+    },
   ],
   author: {
     name: 'Shahil Pusarla',
