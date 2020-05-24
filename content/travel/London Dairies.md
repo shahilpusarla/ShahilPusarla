@@ -1,7 +1,7 @@
 ---
 title: London Dairies
 date: "2020-05-24T12:24:37.121Z"
-template: "travel"
+template: "post"
 draft: false
 slug: "London Dairies"
 category: "Travel"
