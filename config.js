@@ -21,7 +21,7 @@ module.exports = {
     },
     {
       label: 'AlgoDS',
-      path: '/tag/AlgoDS'
+      path: '/tag/algodS'
     },
   ],
   author: {
