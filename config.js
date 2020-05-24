@@ -20,8 +20,8 @@ module.exports = {
       path: '/tag/books'
     },
     {
-      label: 'AlgoDS',
-      path: '/tag/algodS'
+      label: 'Travel',
+      path: '/tag/travel'
     },
   ],
   author: {
