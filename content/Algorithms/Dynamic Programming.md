@@ -7,14 +7,15 @@ slug: "Dynamic Programming"
 category: "Algorithms"
 tags:
   - "Algorithms"
-description: "Explains Dynamic Programming in very simple terms."
-socialImage: "/media/image-2.jpg"
+description: "Concept of Dynamic Programming in simple Language."
+socialImage: "/media/DyanmicProgramming.jpg"
 ---
 
-Mind is a very powerfull tool, It works best as per the usage.
+(/media/DyanmicProgramming.jpg)
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-2.jpg)
+A Dynamic programming algorithm is a technique to solve a problem by dividing it into simpler subproblems, solving each of those just once, and storing their solutions.
+Memorization is an optimization technique used to store results in a cache and return them instead of solving again when the same input occur again.
+Tabulation is an approach to solve a dynamic programming problem by first filling up a table, and then compute the solution to the original problem based on the results in this table.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. 
-
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+Memorization vs. Tabulation
+If some subproblems need not be solved at all, memorization may be more efficient since only the necessary sub-problems are solved, Otherwise either of the approach should be fine.
